@@ -1,24 +1,24 @@
-baseURL: https://example.com/
+baseURL: https://exist2021.github.io
 languageCode: en-us
-title: Author Name
+title: Manoj Nayak
 theme: "PaperMod"
 
 params:
     homeInfoParams:
-        Title: Hello World 👋
-        Content: This is a sample hugo template
+        Title: Articulation ✍️
+        Content: Random aticulation of thoughts
 
     socialIcons: # optional
         - name: "github"
-          url: "https://github.com/sawhney17"
+          url: "https://github.com/exist2021"
         - name: "youtube"
-          url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
+          url: "https://instagram.com/manojnayakdotcom"
         - name: "twitter"
-          url: "https://twitter.com/aryansawhney17"
+          url: "https://twitter.com/manojnayak"
         - name: "kofi" 
-          url: "https://buymeacoffee.com/sawhney17"
+          url: "https://https://linkedin.com/manojrnayak"
         - name: "rss"
-          url: "https://aryansawhney.com/index.xml"
+          url: "https://manojnayak.com/index.xml"
     ShowReadingTime: true
     author: "One Nice Person"
 
