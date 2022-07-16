@@ -1,13 +1,15 @@
 ---
-title: why-some-women-dont-get-marriedmd
+title: Why some women don't get married
 tags:
 categories:
 date: 2022-07-14
-lastMod: 2022-07-14
+lastMod: 2022-07-16
 ---
-# Why some women dont get married
+created:: 2020-09-03
 
-> Published on Sep 3, 2020
+category:: women
+
+tags:: marriage
 
 A woman has to adjust a lot when she marries someone. She has to get involved in a house where everything she loved in her parents home is probably not available. She is now in enemy territory. There is no unconditional love for her anymore.
 
