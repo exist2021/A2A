@@ -3,7 +3,7 @@ date: 2022-02-07
 category: Work
 tags:
 - factory
-title: lesson-learnt-from-closing-down
+title: Lessons Learnt From Closing down my Business
 categories: Work
 lastMod: 2022-07-16
 ---
