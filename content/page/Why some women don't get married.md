@@ -8,6 +8,14 @@ categories: women
 date: 2022-07-14
 lastMod: 2022-07-16
 ---
+A woman has to adjust a lot when she marries someone. She has to get involved in a house where everything she loved in her parents home is probably not available. She is now in enemy territory. There is no unconditional love for her anymore.
+
+Her husband will judge her by her faithfulness, her in-laws will judge her by how much she conforms to their values. In short, the hard life begins as soon as the honeymoon is over. The married man, on the other hand, continues to be the darling of the family, which makes him bloat with false pride all the time. In short, the man-child she married has to be satisfied, and then the in-laws keep raising the bar for her worth.
+
+This kind of scenario will scare the living daylights out of any girl. So many women prefer to stay with their parents instead of getting married. Unless the parents and her siblings make her feel unwanted as an extra burden.
+
+Women who have no other competing resources in their parents' homes have no real incentive to marry out. Unless the following conditions are met: i.e - The man has higher status (i.e., he earns substantially more than she does) and will provide her with a better lifestyle than her parents.
+
 ## So what kind of woman does not get married?
 
 1. The one who has no other siblings competing for their parents' resources.

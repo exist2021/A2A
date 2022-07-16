@@ -1,14 +1,13 @@
 ---
-title: a-small-town-girl-drives-guys-in-our-building-crazymd
+created: 2021-05-27
+category: women
 tags:
-categories:
+- marriage
+title: A small-town girl drives guys in our building crazy
+categories: women
 date: 2022-07-14
-lastMod: 2022-07-15
+lastMod: 2022-07-16
 ---
-# A small-town girl drives guys in our building crazy
-
-> Published on May 27, 2021
-
 She was from a smaller town, but she created a romantic stir when she came to our house in Mumbai. Something about her radiated warmth and besides, she was good-looking. Tall, beautiful and she resembled an actress of that time named **Jaya Prada.**
 
 She lived with us for a few years, I don't remember how many precisely. All I remember is that she drove the guys in our building crazy. There were love letters being dropped in from the upstairs balcony via a thread, through the letterbox hole, and even hand-delivered.
