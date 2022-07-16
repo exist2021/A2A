@@ -1,4 +1,4 @@
-baseURL: https://exist2021.github.io
+baseURL: https://manojnayak.blog
 languageCode: en-us
 title: Manoj Nayak
 theme: "PaperMod"
@@ -11,16 +11,16 @@ params:
     socialIcons: # optional
         - name: "github"
           url: "https://github.com/exist2021"
-        - name: "youtube"
+        - name: "Instagram"
           url: "https://instagram.com/manojnayakdotcom"
         - name: "twitter"
           url: "https://twitter.com/manojnayak"
-        - name: "kofi" 
+        - name: "linkedin" 
           url: "https://https://linkedin.com/manojrnayak"
         - name: "rss"
           url: "https://manojnayak.com/index.xml"
     ShowReadingTime: true
-    author: "One Nice Person"
+    author: "Manoj Nayak"
 
 outputs:
     home:
