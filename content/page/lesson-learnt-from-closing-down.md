@@ -1,11 +1,10 @@
 ---
-created: 2022-02-07
+date: 2022-02-07
 category: Work
 tags:
 - factory
 title: lesson-learnt-from-closing-down
 categories: Work
-date: 2022-07-14
 lastMod: 2022-07-16
 ---
 Sometimes nothing happens for decades and then decades happen within weeks.

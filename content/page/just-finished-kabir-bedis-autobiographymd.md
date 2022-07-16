@@ -1,12 +1,11 @@
 ---
-created: 2021-09-04
+date: 2021-09-04
 category: Celebrities
 tags:
 - books
 - autobiography
 title: just-finished-kabir-bedis-autobiographymd
 categories: Celebrities
-date: 2022-07-14
 lastMod: 2022-07-16
 ---
 I am so not into Bollywood, but after shifting to Bandra in 2013. I have kind of been seeing a lot many Bollywood personalities which I was never really exposed to. 

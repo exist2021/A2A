@@ -1,11 +1,10 @@
 ---
-created: 2020-11-25
+date: 2020-11-25
 category: women
 tags:
 - marriage
 title: Post Modernism - A New Operating System for the World
 categories: women
-date: 2022-07-14
 lastMod: 2022-07-16
 ---
 I am deeply interested in philosophy, as philosophy is the most fundamental block of how we operate as a society. The place of philosophers I think is much higher than the scientist. Scientists build things, but Philosophers help make sense of things.

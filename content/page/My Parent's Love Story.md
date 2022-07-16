@@ -1,9 +1,9 @@
 ---
-created: 2020-09-03
+dated: 2020-09-03
 category: Childhood
 tags:
 - parents
-title: my-parents-love-story
+title: My Parent's Love Story
 categories: Childhood
 date: 2022-07-14
 lastMod: 2022-07-16

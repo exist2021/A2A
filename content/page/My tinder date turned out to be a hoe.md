@@ -1,11 +1,10 @@
 ---
-created: 2022-03-12
+date: 2022-03-12
 category: women
 tags:
 - dating
 title: My tinder date turned out to be a hoe
 categories: women
-date: 2022-07-14
 lastMod: 2022-07-16
 ---
 We matched on tinder. I thought I had hit a jackpot. Her profile seemed like she was an accomplished woman who had travelled and hobnobbed with important people.  I am attracted to successful, strong woman types. Someone who knows the ways of the world. I feel it would cover my lack of experience and naiveté.

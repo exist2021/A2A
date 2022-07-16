@@ -1,11 +1,10 @@
 ---
-created: 2021-05-27
+date: 2021-05-27
 category: childhood
 tags:
 - building
 title: A small-town girl drives guys in our building crazy
 categories: childhood
-date: 2022-07-14
 lastMod: 2022-07-16
 ---
 She was from a smaller town, but she created a romantic stir when she came to our house in Mumbai. Something about her radiated warmth and besides, she was good-looking. Tall, beautiful and she resembled an actress of that time named **Jaya Prada.**

@@ -1,12 +1,11 @@
 ---
-created: 2022-03-25
+date: 2022-03-25
 category: Nutrition
 tags:
 - cooking
 - recipes
 title: My New 555 Home Cooking Rules
 categories: Nutrition
-date: 2022-07-14
 lastMod: 2022-07-16
 ---
 One of the things a single man has to solve is his meal problem. Growing up in a typical patriarchal family set up I never thought I would someday have to cook.

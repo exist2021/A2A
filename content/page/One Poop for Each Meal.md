@@ -1,11 +1,10 @@
 ---
-created: 2022-05-12
+date: 2022-05-12
 category: Health
 tags:
 - habits
 title: One Poop for Each Meal
 categories: Health
-date: 2022-07-14
 lastMod: 2022-07-16
 ---
 I routinely talk about my digestion issues here. So today I thought I might discuss potty workflows. 

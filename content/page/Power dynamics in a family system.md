@@ -1,11 +1,10 @@
 ---
-created: 2022-04-29
+date: 2022-04-29
 category: women
 tags:
 - marriage
 title: Power dynamics in a family system
 categories: women
-date: 2022-07-14
 lastMod: 2022-07-16
 ---
 Since I love systems and power I decided to analyse the broader family network and how power dynamics work within extended families.
