@@ -1,14 +1,13 @@
 ---
-title: ten-pieces-of-advice-i-would-give-to-my-younger-selfmd
+created: 2021-10-15
+category: Youth
 tags:
-categories:
+- advice
+title: Ten pieces of advice I would give to my younger self
+categories: Youth
 date: 2022-07-14
-lastMod: 2022-07-14
+lastMod: 2022-07-16
 ---
-# Ten pieces of advice I would give to my younger self
-
-> Published on Oct 15, 2021
-
 There are times in my life, I feel I had someone elder who was good and articulate at giving me advice. So here is my list of ten advice I would give my younger 15-year-old.
 
 ## 1. Your parents won't be around.

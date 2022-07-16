@@ -1,10 +1,10 @@
 ---
 created: 2021-05-27
-category: women
+category: childhood
 tags:
-- marriage
+- building
 title: A small-town girl drives guys in our building crazy
-categories: women
+categories: childhood
 date: 2022-07-14
 lastMod: 2022-07-16
 ---

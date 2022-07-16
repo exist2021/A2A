@@ -1,17 +1,14 @@
 ---
-title: ganesh-chaturthi-was-the-happiest-time-of-my-childhoodmd
+created: 2020-09-12
+category: Childhood
 tags:
-categories:
+- festivals
+title: Ganesh Chaturthi was the happiest time of my childhood
+categories: Childhood
 date: 2022-07-14
-lastMod: 2022-07-15
+lastMod: 2022-07-16
 ---
-# Ganesh Chaturthi was the happiest time of my childhood
-
-> Published on Sep 12, 2021
-
 Of all the festivals, I loved the Ganesh Festival most in my childhood.
-
-## This was the reason.
 
 We lived on the 3rd floor. But on the 2nd floor lived this gentleman named "Sonavane" (I may be wrong about the last name, it's been almost 35/40 years now). Mr-Sonawane had 2 boys. They did not live with their father, but the 2 boys and their [mother]({{< ref "mother" >}}) both lived in Pune.
 

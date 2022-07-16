@@ -1,14 +1,13 @@
 ---
-title: my-parents-love-story
+created: 2020-09-03
+category: Childhood
 tags:
-categories:
+- parents
+title: my-parents-love-story
+categories: Childhood
 date: 2022-07-14
-lastMod: 2022-07-15
+lastMod: 2022-07-16
 ---
-# My Parent's Love Story
-
-> Published on May 20, 2022
-
 I was born five years after my parents got married. By the time I was five my parents were fighting like cats and dogs. My mother hitting and scratching my father with her hands and my giant father defending himself with his big hands.
 
 By the age of ten, my [mother]({{< ref "mother" >}}) was hopeless drunk and when I turned thirteen they were divorced and separated. 

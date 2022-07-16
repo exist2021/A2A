@@ -1,14 +1,13 @@
 ---
-title: power-dynamics-in-a-family-system
+created: 2022-04-29
+category: women
 tags:
-categories:
+- marriage
+title: Power dynamics in a family system
+categories: women
 date: 2022-07-14
-lastMod: 2022-07-15
+lastMod: 2022-07-16
 ---
-# Power dynamics in a family system.
-
-> Published on Apr 29, 2022
-
 Since I love systems and power I decided to analyse the broader family network and how power dynamics work within extended families.
 
 > So bear me out while I pontificate and wash the dirty laundry of our families in public. Fortunately, this blog is read by six people.
