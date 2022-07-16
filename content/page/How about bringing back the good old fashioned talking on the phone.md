@@ -17,7 +17,7 @@ Well, nothing wrong with that. But seeing a face on the other end also that of a
 
 I think we are losing on to something which is more precious. A simple old fashioned telephone call.
 
-I like the comfort I get from hearing other people's voices. People who can tell you a story on the phone are my favourite kind of people. I think in this era of aggressive selling on zoom. We have forgotten the magic of simple zoom calls.  
+I like the comfort I get from hearing other people's voices. People who can tell you a story on the phone are my favourite kind of people. I think in this era of aggressive selling on zoom. We have forgotten the magic of simple zoom calls.
 
 ## Cancel Text Messages also
 

@@ -22,12 +22,11 @@ I never learned the art of depending on people and then returning the favour. Th
 It is a scary thought. I am exploring this issue of "why we don't need people around us anymore"? For thousands of years, humans have lived together and this disconnection with people is creating anxiety and issues with our health. 
 
 > I saw in a documentary that about 45000 single people died alone in their apartments in Japan in a single year. Some were too weak to even go to the toilet or too proud to call their kins. So they died in their own poop and urine.
-
 ## Has Social Media caused this?
 
 This is a chicken and egg story. Has over-reliance on social media and digital mediums made us anti-social or are these social networking and community sites a solution for a population who are increasingly feeling disconnected from people around them? 
 
-The chicken is the egg and the egg is in the chicken, so no one came first. It is a cycle of isolation and addiction. Isolation is the chicken and the egg is the addiction. 
+The chicken is the egg and the egg is in the chicken, so no one came first. It is a cycle of isolation and addiction. Isolation is the chicken and the egg is the addiction.
 
 ## Why don't people help you anymore?
 
@@ -61,7 +60,7 @@ I think the first thing we humans need to do is to get to an agreement on basic 
 
 So in a way technology will help reduce our dependence on it and help us lead a more rich and textured life with real people who help each other.
 
-This is my personal solution to "why we should need people around us". 
+This is my personal solution to "why we should need people around us".
 
 ## Conclusion
 

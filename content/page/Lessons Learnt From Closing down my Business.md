@@ -46,7 +46,6 @@ Neither am I young nor do I have enormous resources at hand.
 ### TL:DR
 
 > After 10 years or so, I had failed to achieve a product-market fit.
-
 ## Market can change anytime.
 
 Even a monopoly-like Meta (Facebook) is no longer thought of as a safe bet.
@@ -82,7 +81,6 @@ The magic word here is market size. When the market you choose is too small, you
 Whatever way I helped people, they never appreciated me. I felt hurt. They wanted more. The reason they didn't appreciate me was that the business if it did well, would give me political and social clout. *Doesn't matter if I was planning to put that social clout to good use as per my altruistic mission.*
 
 > In short - If the market size is small, you are in a zero-sum game.
-
 ### Don't be idealistic
 
 Well, don't go out of the way to be a do-gooder. So my hipster personality wants everyone to do yoga, have sex and live peacefully ever after.

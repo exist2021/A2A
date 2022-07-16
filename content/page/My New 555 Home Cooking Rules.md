@@ -33,7 +33,6 @@ Last 5-6 months, I have been eating only fruits If I am at home. I have like one
 If I have two meals, one of the meals is just fruit. Fruits alone can get boring so I make "Panch Amrut" which is a fruit salad with five ingredients that take five minutes to make and takes about five minutes to eat.
 
 > So for example
-
 ### My lunch was
 
 5 bananas (smaller ones)

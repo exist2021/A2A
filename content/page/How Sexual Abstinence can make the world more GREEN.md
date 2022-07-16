@@ -13,7 +13,7 @@ I am appalled by the Millennials who pretend to be climate-conscious and then go
 
 Now look at India for example, we totally depend on the dirtiest fuel “COAL” to meet the energy demands of our huge demographic dividend of humans in the age of 20-35. 
 
-Imagine if this big demographic dividend started consuming 1/4 of their current energy consumption? 
+Imagine if this big demographic dividend started consuming 1/4 of their current energy consumption?
 
 ### You still didn’t get it? How sex is related to energy consumption? 
 

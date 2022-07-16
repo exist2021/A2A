@@ -15,13 +15,13 @@ I mean we spend a lot of time on our work workflows so why not have a workflow f
 
 So my poop habits in childhood are influenced by my dad. He went to the office at 8 am and came back at 10 pm. I know, he used the loo only once in the morning.
 
-So I naturally thought that pooping once a day was natural to humans. 
+So I naturally thought that pooping once a day was natural to humans.
 
 ### Things went bad when I couldn't stick to the one poop a day unsaid rule!
 
 No one really told me that I am only supposed to poop in the morning. But I generally maintained this habit till I had an office to go to. But then as soon as I shifted to work from home in 2001. (Yes, I have been WFH since 2001, suckers!!!) things started going south. 
 
-I started having more than one poop a day and it was sometimes a couple in the morning and then maybe before bedtime. 
+I started having more than one poop a day and it was sometimes a couple in the morning and then maybe before bedtime.
 
 ## Internet Research on Poop Habits
 
@@ -39,7 +39,7 @@ This led me to openly talk about my poop issues on Instagram. A gay acquaintance
 
 But I thought he is gay and who would know better about anal hygiene than a gay guy. 
 
-The idea stuck! 
+The idea stuck!
 
 
 
@@ -47,7 +47,7 @@ The idea stuck!
 
 > If you however decide to follow the "One poop per meal" workflow like be me, this is a post to warn you. 
 
-The rule which I didn't get is that the more you poop the more you feel like pooping. You soon end up on a slippery road down the toilet. 
+The rule which I didn't get is that the more you poop the more you feel like pooping. You soon end up on a slippery road down the toilet.
 
 
 

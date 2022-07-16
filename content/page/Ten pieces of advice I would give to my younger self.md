@@ -19,7 +19,6 @@ Bad habits are basically unresolved issues in your life. If you are deprived or 
 Red pill thinking is something I do talk about in this blog. I won't go into details, but as a man, you need to be aware of both the "red pill" and "blue pill".
 
 > Read more - [Son - I give you the red pill](https://manojnayak.com/posts/son-i-give-you-the-red-pill/)
-
 ## 4. You are locked in a power struggle with the closest people around you.
 Who does more work in the house, and who brings in the bacon? Who sacrifices their career so the spouse can have a career. Who always has the last word in some decisions? This seemingly innocuous stuff will shape your personality.
 

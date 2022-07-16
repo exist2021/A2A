@@ -12,7 +12,6 @@ Now you are a young man! You will be more than eager to start a relationship wit
 The more afraid you are of falling in love, the more in love you will be. This woman will either make you or break you. After your [mother]({{< ref "mother" >}}) , she will be the most important woman you will ever meet. She will define your adulthood. 
 
 > That's why it's necessary to take Red Pill.
-
 ## What is a Red Pill you may ask?
 
 Everyone talks about Red Pill, but it's one of those esoteric concepts that you have to realise yourself instead of learning from someone else. Even Elon Musk [said he took the red pill](https://twitter.com/elonmusk/status/1262076474565242880?lang=en). 
@@ -23,7 +22,7 @@ Everyone talks about Red Pill, but it's one of those esoteric concepts that you 
 
 There is an image of a woman that is propagated by advertising, the music industry, and the movie industry. This is how a woman is perceived by society. 
 
-But these media people want to sell you products and not tell you the truth! Red Pill is the contrary view of women to mainstream culture. 
+But these media people want to sell you products and not tell you the truth! Red Pill is the contrary view of women to mainstream culture.
 
 ## Why am I telling you about Red Pill?
 

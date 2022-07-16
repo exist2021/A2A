@@ -1,5 +1,5 @@
 ---
-date: 2020-09-03
+date: 2022-05-20
 category: Childhood
 tags:
 - parents
@@ -23,7 +23,7 @@ They were both good for each other. My Dad was rich, tall and handsome. My stepm
 
 My dad finally had met his real match. My real mom, couldn't live up to my dad's expectations.
 
-When one has disposable income, one tends to become aspirational. He could talk to my step-mom and he loved spending all his free time with her. 
+When one has disposable income, one tends to become aspirational. He could talk to my step-mom and he loved spending all his free time with her.
 
 ## She fulfilled all her responsibilities 
 
@@ -33,7 +33,7 @@ She did her motherly duties towards me and my sister ( we both got married).
 
 Of course, we were not the children she would have ever liked to have. But she did her duties. 
 
-> I think to love somebody's else kids is darn difficult. I don't have any grudges. 
+> I think to love somebody's else kids is darn difficult. I don't have any grudges.
 
 ## Love in longing and grief.
 
@@ -53,7 +53,7 @@ Marriage gave my step-mom the rights of a legal wife. She had now other agendas 
 
 She was now overtly concerned with her security. She reconciled with her daughter long back.
 
-But the love was gone. Now they were together because they both has no other option and now it was a game of cat and mouse. 
+But the love was gone. Now they were together because they both has no other option and now it was a game of cat and mouse.
 
 ## I am not blaming anyone 
 
