@@ -1,5 +1,5 @@
 ---
-date: 2022-04-21
+date: 2020-12-13
 category: Note-taking apps
 tags:
 - fleeting notes
@@ -9,14 +9,12 @@ lastMod: 2022-07-17
 ---
 My mother passed away on the 1st of December, **I think I must have met her twice in the last 35 years of her life**. Yes, I am a divorce kid who grew up with his Dad. In case you want to know [What it is like growing without a mother]({{< ref "What it is like growing without a mother" >}})
 
->
-
-I was curious to know the person who was my mother
+> I was curious to know the person who was my mother
 
 I always felt that I should go live with her and take care of her and know her, but it never materialised. **I was always trapped in my whirlwind of problems**.
 When we talked once or twice a year, she never spoke beyond a couple of sentences. She would ask me about my wife and kids initially ( I have been divorced for 15 years and she didn’t know about nor I thought she was interested in knowing) and then even that stopped. I would ask her how she is doing and that was about it. A few words and the conversation seemed like a pain to her. It was a pain to me, because I live on words, as you can see here.
 
-![](whatsapp image 2020-12-02 at 5.48.42 pm.jpeg)
+![](/users/manojnayak/documents/articulation/content/assets/whatsapp image 2020-12-02 at 5.48.42 pm.jpeg)
 
 
 
@@ -62,7 +60,7 @@ When I say education, I don’t mean just being able to read and write. When I m
 
 Unless you don’t know the fundamentals of how the world operates. I think you are half-educated or lucky.
 
-![WhatsApp Image 2020-12-02 at 5.48.42 PM.jpeg](amma_with_bhavana_1626885139642_0.jpg)
+![Amma with Bhavana](/users/manojnayak/documents/articulation/content/assets/amma_with_bhavana_1626885139642_0.jpg)
 
 My wish for my mother
 
