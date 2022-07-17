@@ -14,7 +14,7 @@ My mother passed away on the 1st of December, **I think I must have met her twic
 I always felt that I should go live with her and take care of her and know her, but it never materialised. **I was always trapped in my whirlwind of problems**.
 When we talked once or twice a year, she never spoke beyond a couple of sentences. She would ask me about my wife and kids initially ( I have been divorced for 15 years and she didn’t know about nor I thought she was interested in knowing) and then even that stopped. I would ask her how she is doing and that was about it. A few words and the conversation seemed like a pain to her. It was a pain to me, because I live on words, as you can see here.
 
-![](https://i.ibb.co/xzl4qkj/whatsapp-image-2020-12-02-at-5-48-42-pm.png)
+<a href="https://ibb.co/25sS9MK"><img src="https://i.ibb.co/YbyXCdj/amma-with-bhavana-1626885139642-0.png" alt="amma-with-bhavana-1626885139642-0" border="0"></a>
 
 
 
@@ -60,7 +60,7 @@ When I say education, I don’t mean just being able to read and write. When I m
 
 Unless you don’t know the fundamentals of how the world operates. I think you are half-educated or lucky.
 
-![Amma with Bhavana](https://i.ibb.co/ybyxcdj/amma-with-bhavana-1626885139642-0.png)
+<a href="https://ibb.co/LCRPFhY"><img src="https://i.ibb.co/XzL4Qkj/whatsapp-image-2020-12-02-at-5-48-42-pm.png" alt="whatsapp-image-2020-12-02-at-5-48-42-pm" border="0"></a>
 
 My wish for my mother
 
