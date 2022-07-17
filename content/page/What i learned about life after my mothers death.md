@@ -14,7 +14,7 @@ My mother passed away on the 1st of December, **I think I must have met her twic
 I always felt that I should go live with her and take care of her and know her, but it never materialised. **I was always trapped in my whirlwind of problems**.
 When we talked once or twice a year, she never spoke beyond a couple of sentences. She would ask me about my wife and kids initially ( I have been divorced for 15 years and she didn’t know about nor I thought she was interested in knowing) and then even that stopped. I would ask her how she is doing and that was about it. A few words and the conversation seemed like a pain to her. It was a pain to me, because I live on words, as you can see here.
 
-![mom and dad](https://scontent.fbom8-1.fna.fbcdn.net/v/t39.30808-6/294359252_10159915900926745_1894458847035454989_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=mit59r5auxwax__2ipx&_nc_ht=scontent.fbom8-1.fna&oh=00_at-rau4y_bxztm0u0fmb9ygsqrm4lenytdrcrdj5n8nqna&oe=62d7df92)
+![mom and dad](https://i.ibb.co/xzl4qkj/whatsapp-image-2020-12-02-at-5-48-42-pm.png)
 
 ## What I know about my mother
 
@@ -58,7 +58,7 @@ When I say education, I don’t mean just being able to read and write. When I m
 
 Unless you don’t know the fundamentals of how the world operates. I think you are half-educated or lucky.
 
-![mom with bhavana](https://scontent.fbom8-1.fna.fbcdn.net/v/t39.30808-6/294612055_10159915900891745_658612292695041005_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=5dw2sofnwqoax-m44re&_nc_ht=scontent.fbom8-1.fna&oh=00_at_-thj74cyq6b-rkr9aprk_09jtf3ijixdiezrxwutk0w&oe=62d7dbbc)
+![mom with bhavana](https://i.ibb.co/ybyxcdj/amma-with-bhavana-1626885139642-0.png)
 
 My wish for my mother
 
