@@ -1,11 +1,13 @@
 ---
 date: 2021-10-22
-category: Childhood
+category:
+- Childhood
 tags:
 - parents
 title: Your Parents dont love as much as you think they love you
-categories: Childhood
-lastMod: 2022-07-16
+categories:
+- Childhood
+lastMod: 2022-07-17
 ---
 I realise most of my perceptions about relationships are shaped by Bollywood. Growing up, when you have a father from the silent generation (Yes, people born between 1925-1935 were known as the silent generation) and an alcoholic mother who was always passed out. You try to make sense of the world through popular culture.
 

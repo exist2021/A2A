@@ -1,12 +1,14 @@
 ---
 date: 2021-09-04
-category: Celebrities
+category:
+- Celebrities
 tags:
 - books
 - autobiography
-title: just-finished-kabir-bedis-autobiographymd
-categories: Celebrities
-lastMod: 2022-07-16
+title: Read Kabir Bedi's Autobiography
+categories:
+- Celebrities
+lastMod: 2022-07-17
 ---
 I am so not into Bollywood, but after shifting to Bandra in 2013. I have kind of been seeing a lot many Bollywood personalities which I was never really exposed to. 
 

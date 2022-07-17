@@ -1,11 +1,15 @@
 ---
 date: 2022-02-07
-category: Work
+category:
+- Work
 tags:
 - factory
+- hyperlocal
+- media business
 title: Lessons Learnt From Closing down my Business
-categories: Work
-lastMod: 2022-07-16
+categories:
+- Work
+lastMod: 2022-07-17
 ---
 Sometimes nothing happens for decades and then decades happen within weeks.
 

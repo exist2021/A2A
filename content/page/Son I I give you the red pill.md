@@ -1,11 +1,13 @@
 ---
 date: 2021-09-24
-category: Children
+category:
+- Children
 tags:
 - advice
 title: Son I I give you the red pill
-categories: Children
-lastMod: 2022-07-16
+categories:
+- Children
+lastMod: 2022-07-17
 ---
 Now you are a young man! You will be more than eager to start a relationship with a beautiful woman. Falling in love with a woman is the most beautiful and probably the most terrifying thing in your life. 
 

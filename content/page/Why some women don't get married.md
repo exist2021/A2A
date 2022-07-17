@@ -1,11 +1,13 @@
 ---
 date: 2020-09-03
-category: women
+category:
+- women
 tags:
 - marriage
 title: Why some women don't get married
-categories: women
-lastMod: 2022-07-16
+categories:
+- women
+lastMod: 2022-07-17
 ---
 A woman has to adjust a lot when she marries someone. She has to get involved in a house where everything she loved in her parents home is probably not available. She is now in enemy territory. There is no unconditional love for her anymore.
 

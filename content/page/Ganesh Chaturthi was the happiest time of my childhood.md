@@ -1,11 +1,13 @@
 ---
 date: 2020-09-12
-category: Childhood
+category:
+- Childhood
 tags:
 - festivals
 title: Ganesh Chaturthi was the happiest time of my childhood
-categories: Childhood
-lastMod: 2022-07-16
+categories:
+- Childhood
+lastMod: 2022-07-17
 ---
 Of all the festivals, I loved the Ganesh Festival most in my childhood.
 

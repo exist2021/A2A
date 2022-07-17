@@ -1,13 +1,15 @@
 ---
 date: 2019-11-18
-category: Childhood
+category:
+- Childhood
 tags:
 - mother
 - death
 - mangalore
 title: What it is like growing without a mother
-categories: Childhood
-lastMod: 2022-07-16
+categories:
+- Childhood
+lastMod: 2022-07-17
 ---
 Yesterday, I attended a talk at the Tata literature festival on “ Writing as a Catharsis”. The panelist were Avni Doshi who has just released her debut novel “The girl in white cotton” which is about a complex relationship between mother and daughter. Then there was Istavan Voros and David Vann whose father committed suicide when he was just 13. David went on to write a novel about his father’s suicide but ended up committing suicide himself (in the novel of-course).
 

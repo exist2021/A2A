@@ -1,11 +1,13 @@
 ---
 date: 2022-04-11
-category: Loneliness
+category:
+- Loneliness
 tags:
 - social media
 title: How about bringing back the good old fashioned talking on the phone
-categories: Loneliness
-lastMod: 2022-07-16
+categories:
+- Loneliness
+lastMod: 2022-07-17
 ---
 Yesterday a woman said, I can help you with social media marketing. It is free. I reluctantly agreed. I said this is my number let's talk.
 

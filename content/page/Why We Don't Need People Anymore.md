@@ -1,11 +1,13 @@
 ---
 date: 2022-07-07
-category: Relationships
+category:
+- Relationships
 tags:
 - social media
 title: Why We Don't Need People Anymore
-categories: Relationships
-lastMod: 2022-07-16
+categories:
+- Relationships
+lastMod: 2022-07-17
 ---
 I remember how things were in the 80s and the 90s. People used to meet a lot. They would just naturally depend on each other. Meetings were casual back then, they didn't need a special invitation. One could just drop in on each other. Most of the time tea and lunch were offered. But what one needed most was human interaction and the assurance that one could depend on each other.
 

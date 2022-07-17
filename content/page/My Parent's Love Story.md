@@ -1,11 +1,13 @@
 ---
 date: 2022-05-20
-category: Childhood
+category:
+- Childhood
 tags:
 - parents
 title: My Parent's Love Story
-categories: Childhood
-lastMod: 2022-07-16
+categories:
+- Childhood
+lastMod: 2022-07-17
 ---
 I was born five years after my parents got married. By the time I was five my parents were fighting like cats and dogs. My mother hitting and scratching my father with her hands and my giant father defending himself with his big hands.
 
