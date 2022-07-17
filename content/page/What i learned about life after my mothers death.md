@@ -1,10 +1,13 @@
 ---
 date: 2020-12-13
-category: Note-taking apps
+category:
+- Children
 tags:
-- fleeting notes
+- parents
+- death
 title: What i learned about life after my mother’s death
-categories: Note-taking apps
+categories:
+- Children
 lastMod: 2022-07-17
 ---
 My mother passed away on the 1st of December, **I think I must have met her twice in the last 35 years of her life**. Yes, I am a divorce kid who grew up with his Dad. In case you want to know [What it is like growing without a mother]({{< ref "What it is like growing without a mother" >}})
