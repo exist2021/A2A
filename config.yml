@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: Articulation ✍️
-        Content: Random aticulation of thoughts
+        Content: Random articulation of thoughts
 
     socialIcons: # optional
         - name: "github"
@@ -46,4 +46,4 @@ menu:
           name: Archive
           url: /archives/
           weight: 20
-googleAnalytics = "G-7E5K4RLK3E"
+
