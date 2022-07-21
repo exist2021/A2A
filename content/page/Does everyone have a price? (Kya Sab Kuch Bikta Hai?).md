@@ -1,12 +1,9 @@
 ---
-category:
-- Society
+category: Society
 date: 18 Dec 2021
-tags:
-- corruption
+tags: corruption
 title: Does everyone have a price? (Kya Sab Kuch Bikta Hai?)
-categories:
-- Society
+categories: Society
 lastMod: 2022-07-21
 ---
 ## How to Buy a person.
