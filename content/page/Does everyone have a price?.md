@@ -1,9 +1,12 @@
 ---
+date: 2021-12-18
+category:
+- Society
+tags:
+- corruption
 title: Does everyone have a price?
-category: Society
-date: 18 Dec 2021
-tags: 
-categories: Society
+categories:
+- Society
 lastMod: 2022-07-21
 ---
 ## How to Buy a person.
