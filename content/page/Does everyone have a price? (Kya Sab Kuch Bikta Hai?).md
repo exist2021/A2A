@@ -1,5 +1,5 @@
 ---
-title: Does everyone have a price? (Kya Sab Kuch Bikta Hai?)
+title: Does everyone have a price?
 category: Society
 date: 18 Dec 2021
 tags: corruption
