@@ -39,7 +39,6 @@ Of course, this is never said in public. The public is informed that the man has
 > It is important to note that the **loss of connection leads to addiction issues**
 
 > Slut shaming is a taboo unless it is done by another woman.
-
 ## How does a man prevent a woman from leaving him?
 
 Have you known about the "possessive man"?. This man literally keeps his woman under lock and key.
@@ -76,7 +75,6 @@ Without connection, the entire relationship is a farce. It is just lip service. 
 Often when the elder's pressurize young couples to get kids, is when they see that the couple doesn't have a good connection. (aka - risk of divorce).
 
 > Men need to belong to compete!
-
 ## Community
 
 Community means an assurance that the man will not lose all his social clout when she leaves him.
@@ -87,8 +85,7 @@ Should she put up with a husband who never wants to get out of his addictions an
 
 So let me not push women in a tough spot. But a man needs to know how much she can endure and keep fighting for them to be together.
 
-> If he thinks she cannot endure, he will try to find another community.  
-
+> If he thinks she cannot endure, he will try to find another community.
 ### The below Charles Bukowaski Quote sums up men's state of mind with women problem.
 
 ![Charles_Bukowaski_Quote.png](https://manojnayak.mataroa.blog/images/951a452a.png)
