@@ -8,7 +8,7 @@ tags:
 title: Woke culture is getting on my nerves!
 categories:
 - Culture
-lastMod: 2022-07-17
+lastMod: 2022-07-21
 ---
 I don't know why I started looking into the inner workings of Woke culture for past few years. Maybe my radar detects a serious threat from this culture. The thing is, I've never been a collectivist, I don't have that thing inside me that says you scratch my back and I'll scratch yours. I'm going to do what I think is right.
 

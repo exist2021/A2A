@@ -5,12 +5,10 @@ category:
 tags:
 - parents
 - death
-- .
-- mother
 title: What i learned about life after my mother’s death
 categories:
 - Children
-lastMod: 2022-07-18
+lastMod: 2022-07-21
 ---
 My mother passed away on the 1st of December, **I think I must have met her twice in the last 35 years of her life**. Yes, I am a divorce kid who grew up with his Dad. In case you want to know [What it is like growing without a mother]({{< ref "What it is like growing without a mother" >}})
 

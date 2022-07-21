@@ -8,7 +8,7 @@ tags:
 title: Read Kabir Bedi's Autobiography
 categories:
 - Celebrities
-lastMod: 2022-07-17
+lastMod: 2022-07-21
 ---
 I am so not into Bollywood, but after shifting to Bandra in 2013. I have kind of been seeing a lot many Bollywood personalities which I was never really exposed to. 
 

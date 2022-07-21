@@ -7,7 +7,7 @@ tags:
 title: How about bringing back the good old fashioned talking on the phone
 categories:
 - Loneliness
-lastMod: 2022-07-17
+lastMod: 2022-07-21
 ---
 Yesterday a woman said, I can help you with social media marketing. It is free. I reluctantly agreed. I said this is my number let's talk.
 

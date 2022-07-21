@@ -1,18 +1,14 @@
 ---
+title: What does a man want from a woman?
 date: 2022-02-17
 category:
 - Relationship
 tags:
-- woman
-title: What does a man want from a woman?
+- women
 categories:
 - Relationship
-lastMod: 2022-07-19
+lastMod: 2022-07-21
 ---
-# What does a man want from a woman?
-
-> Published on Feb 17, 2022
-
 I feel like I am one of the most demanding men out there. So I tend to avoid relationships, why to inflict myself on a woman who is out to have a good time? But maybe I can articulate here what I want and I feel all other men also want.
 
 ![samantha-sophia-r1OQfUIw3ns-unsplash.jpg](https://manojnayak.mataroa.blog/images/dca28dc7.jpeg)
