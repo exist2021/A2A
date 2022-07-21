@@ -4,7 +4,7 @@ category:
 - Society
 tags:
 - corruption
-title: Does everyone have a price?
+title: Does everyone have a price? (Kya sab kuch bikta hai?)
 categories:
 - Society
 lastMod: 2022-07-21
@@ -18,7 +18,9 @@ Is he struggling to make ends meet? Then you can get away with a small bribe. Su
 
 The price of the bribe goes up as the needs of the individual go up in Maslow's hierarchy. Below is the diagram.
 
-![](https://i.imgur.com/mdcb4ue_d.webp?maxwidth=760&fidelity=grand)
+![Screenshot 2022-07-21 at 12-19-16 PM](https://mataroa.blog/images/efafe008.png)
+
+
 
 ## Self-Actualization People Nahee Kareed Sakte ( Not for Sale)
 
