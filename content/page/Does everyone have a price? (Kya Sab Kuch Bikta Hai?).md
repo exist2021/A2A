@@ -2,7 +2,7 @@
 title: Does everyone have a price?
 category: Society
 date: 18 Dec 2021
-tags: corruption
+tags: 
 categories: Society
 lastMod: 2022-07-21
 ---
