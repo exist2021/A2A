@@ -11,7 +11,7 @@ lastMod: 2022-07-21
 ---
 Now you are a young man! You will be more than eager to start a relationship with a beautiful woman. Falling in love with a woman is the most beautiful and probably the most terrifying thing in your life. 
 
-The more afraid you are of falling in love, the more in love you will be. This woman will either make you or break you. After your [mother]({{< ref "mother" >}}) , she will be the most important woman you will ever meet. She will define your adulthood. 
+The more afraid you are of falling in love, the more in love you will be. This woman will either make you or break you. After your mother , she will be the most important woman you will ever meet. She will define your adulthood. 
 
 > That's why it's necessary to take Red Pill.
 ## What is a Red Pill you may ask?

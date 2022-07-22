@@ -19,7 +19,7 @@ I have in my earlier blog post hinted at the grey areas of [my perception of wom
 
 ## Bollywood painted a larger than life picture of mother and sometimes father.
 
-So the ideal [mother]({{< ref "mother" >}}) was an iron-willed lady who went through tremendous hardships to raise her kids “Vijay” and his brother. She never married, she never had extra-marital affairs. This is the ideal of the mother Bollywood painted. The father in some movies died probably riding a taxi and was exploited by some fat ‘Seth” and eventually died of tuberculosis because he would rather buy food for his kids than buy medicine for himself.
+So the ideal mother was an iron-willed lady who went through tremendous hardships to raise her kids “Vijay” and his brother. She never married, she never had extra-marital affairs. This is the ideal of the mother Bollywood painted. The father in some movies died probably riding a taxi and was exploited by some fat ‘Seth” and eventually died of tuberculosis because he would rather buy food for his kids than buy medicine for himself.
 
 ## Parents are trying to live their life through their kids.
 
