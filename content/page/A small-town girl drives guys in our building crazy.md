@@ -15,7 +15,7 @@ She lived with us for a few years, I don't remember how many precisely. All I re
 
 I don't think I know who she ended up giving her heart to, I mean I can't remember his name because I must have been about 5 years old. But I think he had a beard. I felt like out of all the good-looking guys, she picked the most decent one. I was a bit disappointed. But I'm not sure if that love went any further, she was back on the bus crying back to her small town.
 
-> I think she must have been my first love. *Because my [[mother]] was not someone I looked up to.
+> I think she must have been my first love. *Because my mother was not someone I looked up to.
 
 She is still the warm person she was back then. She still smiles with the same vigour. She can still obsess over you and make you feel like you are the most important person in the world.
 

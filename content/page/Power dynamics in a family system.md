@@ -23,7 +23,7 @@ Some people find this value in their network. They are appreciated for the value
 
 The most productive human in a family system is known as the alpha. The alpha goes out in the world and brings back more to the table than he has consumed. In this sense, the alpha is creating wealth in the family system.
 
-The beta is usually the son who is still studying at the age of 35 and is not sure If that higher education will ever bear fruit. He lives off others, he is only able to get resources cause of a lady called a " [[mother]] ".
+The beta is usually the son who is still studying at the age of 35 and is not sure If that higher education will ever bear fruit. He lives off others, he is only able to get resources cause of a lady called a " mother ".
 
 ### The alpha human is a perfect product-market fit.
 

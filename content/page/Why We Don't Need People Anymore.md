@@ -66,6 +66,6 @@ This is my personal solution to "why we should need people around us".
 
 ## Conclusion
 
-If you are part of this increased alienated and lonely world. Let me know, you are a brother from another [[mother]] . We can talk about some moral code of engagement and make people spend more time with each other. 
+If you are part of this increased alienated and lonely world. Let me know, you are a brother from another mother . We can talk about some moral code of engagement and make people spend more time with each other. 
 
 ![DALL·E 2022-07-07 17.19.26.png](https://mataroa.blog/images/cd93c9a3.png)
