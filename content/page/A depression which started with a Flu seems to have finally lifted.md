@@ -20,10 +20,10 @@ My mind had stopped thinking. I kept asking myself why I am sleeping so much. I 
 
 I also was trying to sort some emotional issues. I didn’t know how to handle it, so I thought I will handle it in my sleep. When the emotional issue over-whelmed me, I went back to sleep.
 
-This all lasted till this morning. Yesterday, I was at my sisters place for my fiftieth birthday. There I met my brother-in-laws parents who are 87/89. As mummy  Parag’s mother lay in bed, she held my hand and at 87 I was wondering why is so much more alive than me. Her entire face was lit up and wired, She held my hand tightly and gently. She said this is perhaps the final goodbye. I murmured, perhaps not.
+This all lasted till this morning. Yesterday, I was at my sisters place for my fiftieth birthday. There I met my brother-in-laws parents who are 87/89. As mummy [[ Parag]]’s mother lay in bed, she held my hand and at 87 I was wondering why is so much more alive than me. Her entire face was lit up and wired, She held my hand tightly and gently. She said this is perhaps the final goodbye. I murmured, perhaps not.
 
 Maybe, I needed to meet people to feel connected back to reality. I felt someone had flicked up my switch to "off" position. I had no desire to work, love. I was feeling hopeless.
 
-This morning, I woke up and after frustrated one hour delay and cancellation of my eggs by zomato. I ordered eggs via grocery app with and all the ingredients and made my own breakfast after more than a year. I think I a might get back to  cooking.
+This morning, I woke up and after frustrated one hour delay and cancellation of my eggs by zomato. I ordered eggs via grocery app with and all the ingredients and made my own breakfast after more than a year. I think I a might get back to [[ cooking]].
 
 ![DALL·E 2022-08-11 14-32-34 - A old woman lying in bed radiating brightness and seeing you for the last time](https://mataroa.blog/images/4990df38.png)
