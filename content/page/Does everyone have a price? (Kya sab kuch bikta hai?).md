@@ -1,10 +1,10 @@
 ---
+title: Does everyone have a price? (Kya sab kuch bikta hai?)
 date: 2021-12-18
 category:
 - Society
 tags:
 - corruption
-title: Does everyone have a price? (Kya sab kuch bikta hai?)
 categories:
 - Society
 lastMod: 2022-07-21
@@ -26,21 +26,20 @@ The price of the bribe goes up as the needs of the individual go up in Maslow's 
 
 So the problem happens when people start thinking they are self-actualised. (Read people who are highly deluded by their own Integrity). But I have solutions on how to deal with these people also. Below are some steps on how to buy these people. 
 
-> They don’t care for money, so fear is your next best tool. 
-
+> They don’t care for money, so fear is your next best tool.
 ## Step 1 - Threaten them Economic ruin and destitution. 
 
-For people down the social ladder who are on edge of poverty, this is very effective. They will turn from lions to rats in no time. Of course, since you are a white-collar gunda, you will need to sugarcoat the threat in language which appears well-meaning and introspective, but which will scare the shit of this kinda dude’s pants! 
+For people down the social ladder who are on edge of poverty, this is very effective. They will turn from lions to rats in no time. Of course, since you are a white-collar gunda, you will need to sugarcoat the threat in language which appears well-meaning and introspective, but which will scare the shit of this kinda dude’s pants!
 
 ## Step 2 - Reputation and Social Status Damage
 
-There are people who have a reputation and social status who are the easiest people to cow down. Snatch away their top clients and their business will start slowly going to the dogs. As they see their dreams of their children's foreign education getting washed away in their tears. You can push in your demand and you can get a great deal. 
+There are people who have a reputation and social status who are the easiest people to cow down. Snatch away their top clients and their business will start slowly going to the dogs. As they see their dreams of their children's foreign education getting washed away in their tears. You can push in your demand and you can get a great deal.
 
 ## Step 3 - Threaten Physical Violence
 
 This is the poorest class and they are the worst people to obey orders. Only physical violence works with them. Since you are a white-collar gunda, don’t hire a gunda, but use your connections with the police to do the job. The police are eager to use their danda as the AK-47s are all rusting. 
 
-Once, this guy has got enough of danda in a lockup. Tell him your demand, he will be your pet dog for the rest of his life. 
+Once, this guy has got enough of danda in a lockup. Tell him your demand, he will be your pet dog for the rest of his life.
 
 ## Step 4 - The Martyr Types 
 
