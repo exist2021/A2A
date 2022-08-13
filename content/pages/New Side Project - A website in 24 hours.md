@@ -15,6 +15,6 @@ Now you can just drag and drop elements and build a website. However a basic kno
 
 So, i decided to offer this painless solution of delivering a website in 24 hours. However, there is no business if there is no distribution.
 
-> So people pls spread the word out there :). More details on the [website](https://www.websitein24hours.com/)
+> So people pls spread the word out there :). More details on the [website](http://www.websitein24hours.com/)
 
 ![Screenshot 2022-08-13 at 1.41.45 PM.png](/assets/screenshot_2022-08-13_at_1.41.45_pm_1660378371108_0.png)
