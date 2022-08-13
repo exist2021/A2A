@@ -65,7 +65,7 @@ Unless you don’t know the fundamentals of how the world operates. I think you 
 
 My wish for my mother
 
-Dear Amma,
+  + Dear Amma,
 
 I know it is rather late but How I wish I could give you power which is eternal and everlasting in form of love wherever you are now.
 

@@ -11,7 +11,7 @@ lastMod: 2022-08-13
 ---
 Of all the festivals, I loved the Ganesh Festival most in my childhood.
 
-We lived on the 3rd floor. But on the 2nd floor lived this gentleman named "Sonavane" (I may be wrong about the last name, it's been almost 35/40 years now). Mr-Sonawane had 2 boys. They did not live with their father, but the 2 boys and their mother both lived in Pune.
+We lived on the 3rd floor. But on the 2nd floor lived this gentleman named "Sonavane" (I may be wrong about the last name, it's been almost 35/40 years now). Mr-Sonawane had 2 boys. They did not live with their father, but the 2 boys and their [[mother]] both lived in Pune.
 
 But during Ganpati Festival, Mr Sonavane's 2 children used to come to Mumbai to visit Ganesh Festival as their father had been hosting Ganesh Murthi at their home for years,
 
