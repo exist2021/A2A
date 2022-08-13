@@ -7,7 +7,7 @@ tags:
 title: How Sexual Abstinence can make the world more GREEN
 categories:
 - Sex
-lastMod: 2022-07-21
+lastMod: 2022-08-13
 ---
 I am appalled by the Millennials who pretend to be climate-conscious and then go get married, have kids, buy cars, travel the world and then make placards about “SAVE THE PLANET”.
 

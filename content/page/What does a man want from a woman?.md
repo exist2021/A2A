@@ -7,7 +7,7 @@ tags:
 - women
 categories:
 - Relationship
-lastMod: 2022-07-21
+lastMod: 2022-08-13
 ---
 I feel like I am one of the most demanding men out there. So I tend to avoid relationships, why to inflict myself on a woman who is out to have a good time? But maybe I can articulate here what I want and I feel all other men also want.
 

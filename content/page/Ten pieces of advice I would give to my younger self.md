@@ -5,7 +5,7 @@ tags:
 - advice
 title: Ten pieces of advice I would give to my younger self
 categories: Youth
-lastMod: 2022-07-21
+lastMod: 2022-08-13
 ---
 There are times in my life, I feel I had someone elder who was good and articulate at giving me advice. So here is my list of ten advice I would give my younger 15-year-old.
 

@@ -7,7 +7,7 @@ tags:
 title: Power dynamics in a family system
 categories:
 - Family
-lastMod: 2022-07-21
+lastMod: 2022-08-13
 ---
 Since I love systems and power I decided to analyse the broader family network and how power dynamics work within extended families.
 
