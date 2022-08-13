@@ -1,5 +1,5 @@
 ---
-title: AI to Build websites - Bookmark.com
+title: AI to Build websites - Bookmark
 tags:
 categories:
 date: 2022-08-13
