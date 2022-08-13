@@ -9,9 +9,9 @@ categories:
 - side project
 lastMod: 2022-08-13
 ---
-So website building is no longer the complex process it used to be. Unless you want to spend [46K USD](https://mtlynch.io/tinypilot-redesign/) building it. Most mortals don't have this kind of budget. So here is where [[no code]] and [[AI]] comes in.
+So website building is no longer the complex process it used to be. Unless you want to spend [46K USD](https://mtlynch.io/tinypilot-redesign/) building it. Most mortals don't have this kind of budget. So here is where [no code]({{< ref "no code" >}}) and [AI to Build websites - Bookmark.com]({{< ref "AI to Build websites - Bookmark.com" >}}) comes in.
 
-Now you can just drag and drop elements and build a website. However a basic knowledge of design and layers is required. But that too can be avoided by having AI build your site, or just convert your notion page in to a website.
+Now you can just drag and drop elements and build a website. In such cases a basic knowledge of design and layers is required. But that too can be avoided by having AI build your site, or just convert your notion page in to a website.
 
 So, i decided to offer this painless solution of delivering a website in 24 hours. However, there is no business if there is no distribution.
 
