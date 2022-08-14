@@ -15,6 +15,6 @@ These dreams are so recurring that it feels like a nightmare. There are times so
 Now, it has started affecting my real life too, I see beautiful woman around me with suspicions, I feel they are going to pounce on me, or beg and cry to me to take them in. 
 Dear Readers, what should I do? This is a grave question of my manliness! Please send me suggestion via DM.
 
-BTW if you want to receive such nonsense in to your inbox. Subscribe to my [[My Monthly Newsletter]] :)
+BTW if you want to receive such nonsense in to your inbox. Subscribe to my [My Monthly Newsletter]({{< ref "My Monthly Newsletter" >}})
 
-![DALL·E 2022-08-14 09-27-20 - tons of woman chasing a man in his dreams](https://mataroa.blog/images/f4c6bffe.png)
+![DALL·E 2022-08-14 09-27-20 - tons of woman chasing a man in his dreams](https://mataroa.blog/images/f4c6bffe.png) [Dall-e]({{< ref "Dall-e" >}})
