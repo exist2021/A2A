@@ -17,4 +17,4 @@ Dear Readers, what should I do? This is a grave question of my manliness! Please
 
 BTW if you want to receive such nonsense in to your inbox. Subscribe to my [My Monthly Newsletter]({{< ref "My Monthly Newsletter" >}})
 
-![DALL·E 2022-08-14 09-27-20 - tons of woman chasing a man in his dreams](https://mataroa.blog/images/f4c6bffe.png) [Dall-e]({{< ref "Dall-e" >}})
+![DALL·E 2022-08-14 09-27-20 - tons of woman chasing a man in his dreams](https://mataroa.blog/images/f4c6bffe.png) Images by [Dall-e]({{< ref "Dall-e" >}})
