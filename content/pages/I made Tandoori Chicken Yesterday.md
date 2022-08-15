@@ -18,6 +18,6 @@ Then, I ate them with some Britannia Kulcha and Ragi Bread. All the time I was t
 
 The thing I don't like about the grilling is all grime it leaves on the grill which gets difficult to clean. Also, the little butter I add, gets atomised and makes the small studio home and floors sticky.
 
-This is not the actual image, but just a representation created with [Dall-e]({{< ref "Dall-e" >}})
+> This is not the actual image, but just a representation created with [Dall-e]({{< ref "Dall-e" >}})
 
-![DALL·E 2022-08-15 12.11.08 - Grilled Tandoori Chicken.png](/assets/dall·e_2022-08-15_12.11.08_-_grilled_tandoori_chicken_1660545689496_0.png)
+![DALL·E 2022-08-15 12-11-08 - Grilled Tandoori Chicken](https://mataroa.blog/images/867dcd95.png)
