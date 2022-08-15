@@ -15,8 +15,9 @@ In my dreams, I am roaming around the city like I do IRL. But wherever I go, I a
 
 These dreams are so recurring that it feels like a nightmare. There are times some of these woman have offered me cash to do the unthinkable with them. Now you might be thinking why don't i oblige these women and give them what they want? Yes, that is my conundrum too, I am also wondering why I cannot oblige to them? Am i less of a man? Am i impotent? These questions are tormenting me in my dreams.
 
-Now, it has started affecting my real life too, I see beautiful woman around me with suspicions, I feel they are going to pounce on me, or beg and cry to me to take them in. 
-Dear Readers, what should I do? This is a grave question of my manliness! Please send me suggestion via DM.
+Now, it has started affecting my real life too, I see beautiful woman around me with suspicions, I feel they are going to pounce on me, or beg and cry to me to take them in.
+
+*Dear Readers, what should I do? This is a grave question of my manliness! Please send me suggestion via DM.*
 
 > BTW if you want to receive such nonsense in to your inbox. Subscribe to my [My Monthly Newsletter]({{< ref "My Monthly Newsletter" >}})
 
