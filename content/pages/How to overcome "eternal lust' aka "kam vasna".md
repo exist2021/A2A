@@ -18,7 +18,7 @@ I just heard this entire talk by [Osho]({{< ref "Osho" >}}) this morning, so I t
 
   + ### Osho's Reply
 
-    + He says men start getting sexual urges from age 14 and his urges usually peak at the age of 17, but in our society most men don't get sex till age of marriage which could be 25 or even 30. This means that when the man is leaking and the energy to totally enjoy sex he is repressed and this manifest in unfulfilled desire which leaves him wanting.
+    + He says men start getting sexual urges from age 14 and his urges usually peak at the age of 17, but in our society most men don't get sex till age of marriage which could be 25 or even 30. This means that when the man is leaking and the energy to totally enjoy sex he is repressed and this manifest in unfulfilled desire which leaves him wanting. He says men should ideally not feel much lust after the age of 42. But in a repressed society, the man goes on lusting till his old age.
 
     + He says this desire is also the door to higher things, but instead of repressing it, one can transcend it to "tantra'. He says he gets flak for promoting tantra by the same repressed men.
 
