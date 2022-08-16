@@ -10,7 +10,7 @@ categories:
 date: 2022-08-16
 lastMod: 2022-08-16
 ---
-I just heard this entire talk bu [Osho]({{< ref "Osho" >}}) this morning, so I thought I might as well sum it up as it is fresh in memory. This is Osho at it's best! His articulation and drilling down into minutiae is like no one else. I feel due to short attention spans nowadays no one has the patience to tell stories like Osho does. I had stopped listening to him as I also felt he sound dated. The I realised I was low on patience as now you get quicker fixes on social media and youtube. To listen to Osho, you need to be serious about stuff. He doesn't give you quotable quotes. He gets to the root of the problem.
+I just heard this entire talk by [Osho]({{< ref "Osho" >}}) this morning, so I thought I might as well sum it up as it is fresh in memory. This is Osho at it's best! His articulation and drilling down into minutiae is like no one else. I feel due to short attention spans nowadays no one has the patience to tell stories like Osho does. I had stopped listening to him as I also felt he sounded dated. The I realised I was low on patience as now you get quicker fixes on social media and youtube. To listen to Osho, you need to be serious about stuff. He doesn't give you quotable quotes. He gets to the root of the problem.
 
 ## Summary
 
@@ -26,7 +26,7 @@ I just heard this entire talk bu [Osho]({{< ref "Osho" >}}) this morning, so I t
 
     + He says men who know 'Kam vasna" can see beauty in other things as the roots of lust are the same. The same eyes which sees a beautiful woman also sees the beauty of the flower and nature.
 
-    + Summing it up in one line
+    + ### Summing it up in one line
 
     + > Transcend lust than repressing it. God will never blame you for lust as he meant it as a feature not a bug."
 
