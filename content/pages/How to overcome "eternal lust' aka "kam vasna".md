@@ -14,7 +14,7 @@ I just heard this entire talk by [Osho]({{< ref "Osho" >}}) this morning, so I t
 
 ## Summary
 
-  + A disciple writes to Osho for advice - He says " He now approaching old age (like me) and though he is spiritual he is extremely troubled by his desire for women and sex."
+  + A disciple writes to Osho for advice - He says " He now approaching old age and though he is spiritual he is extremely troubled by his desire for women and sex."
 
   + ### Osho's Reply
 
