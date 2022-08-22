@@ -18,3 +18,7 @@ So, i decided to offer this painless solution of delivering a website in 24 hour
 > So people pls spread the word out there :). More details on the [website](https://www.websitein24hours.com/)
 
 ![Screenshot 2022-08-13 at 1.41.45 PM.png](/assets/screenshot_2022-08-13_at_1.41.45_pm_1660378371108_0.png)
+
+## Monthly Newsletter
+
+In case you are interested in hearing from me straight to your inbox you can sign up for my monthly newsletter here, which is sent usually in the last week of the month. It contains links to all about the blogposts I have written. [Subscribe here!](https://www.getrevue.co/profile)

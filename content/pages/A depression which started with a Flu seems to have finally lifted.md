@@ -27,3 +27,7 @@ Maybe, I needed to meet people to feel connected back to reality. I felt someone
 This morning, I woke up and after frustrated one hour delay and cancellation of my eggs by zomato. I ordered eggs via grocery app with and all the ingredients and made my own breakfast after more than a year. I think I a might get back to [cooking]({{< ref "cooking" >}})
 
 ![DALL·E 2022-08-11 14-32-34 - A old woman lying in bed radiating brightness and seeing you for the last time](https://mataroa.blog/images/4990df38.png)
+
+## Monthly Newsletter
+
+In case you are interested in hearing from me straight to your inbox you can sign up for my monthly newsletter here, which is sent usually in the last week of the month. It contains links to all about the blogposts I have written. [Subscribe here!](https://www.getrevue.co/profile)

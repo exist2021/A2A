@@ -12,6 +12,10 @@ lastMod: 2022-08-16
 ---
 I just heard this entire talk by [Osho]({{< ref "Osho" >}}) this morning, so I thought I might as well sum it up as it is fresh in memory. This is Osho at it's best! His articulation and drilling down into minutiae is like no one else. I feel due to short attention spans nowadays no one has the patience to tell stories like Osho does. I had stopped listening to him as I also felt he sounded dated. The I realised I was low on patience as now you get quicker fixes on social media and youtube. To listen to Osho, you need to be serious about stuff. He doesn't give you quotable quotes. He gets to the root of the problem.
 
+## Video
+
+  + {{< youtube rOcE6Rg_vHI >}}
+
 ## Summary
 
   + A disciple writes to Osho for advice - He says " He now approaching old age and though he is spiritual he is extremely troubled by his desire for women and sex."
@@ -30,6 +34,6 @@ I just heard this entire talk by [Osho]({{< ref "Osho" >}}) this morning, so I t
 
     + > Transcend lust than repressing it. God will never blame you for lust as he meant it as a feature not a bug."
 
-## Video
+## Monthly Newsletter
 
-  + {{< youtube rOcE6Rg_vHI >}}
+In case you are interested in hearing from me straight to your inbox you can sign up for my monthly newsletter here, which is sent usually in the last week of the month. It contains links to all about the blogposts I have written. [Subscribe here!](https://www.getrevue.co/profile)
