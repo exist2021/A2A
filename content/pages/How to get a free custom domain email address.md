@@ -13,7 +13,7 @@ lastMod: 2022-08-22
 Are you paying for a email address? Are you a small business or a freelancer? Do you keep buying new domains and need emails for them?  If your answer is YES, then you should read further.
 
 ## Emails are getting expensive and all freebies plans are over.
-Nowadays, emails are costing a lot more than it used to do. I remember in early days they would offer emails free when you purchased a domain. One of the earliest domains I have still has a free email from Godaddy, also i still have a free custom domain email id from Gsuite ( Now known as Google Workspace) for free. Google has stopped the Suite Legacy plan and [has made people pay for it](https://support.google.com/a/answer/60217?product_name=UnuFlow&visit_id=637967487199948467-450874955&rd=1&src=supportwidget0).
+Nowadays, emails are costing a lot more than it used to do. I remember in early days they would offer emails free when you purchased a domain. One of the earliest domains I have still has a free email from Godaddy, also i still have a free custom domain email id from Gsuite ( Now known as [Google Workspace](https://workspace.google.com/) for free. Google has stopped the GSuite Legacy plan and [has made people pay for it](https://support.google.com/a/answer/60217?product_name=UnuFlow&visit_id=637967487199948467-450874955&rd=1&src=supportwidget0).
 
 ## Google Workspace Woes
 
@@ -22,7 +22,7 @@ I literally had about five domains and I had separate google workspace accounts 
 ![Screenshot 2022-08-22 at 12-36-26 PM](https://mataroa.blog/images/16f50369.png)
 
 ### Google Workspace Support is complex
-The path to creating a google workspace account is also designed to businesses and not individuals (obviously). I tried to create a new account, and when I entered my mobile number for verification, it gave me an error notification saying “This number has been used many times to create email accounts”. Hell, am I am outlier who has five workspace emails?
+The path to creating a google workspace account is also designed for medium to large businesses and not individuals (obviously) and small businesses. I tried to create a new account, and when I entered my mobile number for verification, it gave me an error notification saying “This number has been used many times to create email accounts”. Hell, am I am outlier who has five workspace emails?
 
 I reached out on twitter, the support guys asks me to use another number, I rage on him, that I cannot spend 100 $ to buy a new SIM card and a new phone to get a new email which is 2 $. He relents and then asks me to fill a form. I get a reply to the form in a couple of days. In the meanwhile I have shut all my account and moved on.
 
