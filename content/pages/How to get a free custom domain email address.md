@@ -15,9 +15,7 @@ Are you paying for a email address? Are you a small business or a freelancer? Do
 ## Emails are getting expensive and all freebies plans are over.
 Nowadays, emails are costing a lot more than it used to do. I remember in early days they would offer emails free when you purchased a domain. One of the earliest domains I have still has a "lifetime free" email from Godaddy, also I still have a free custom domain email id from Gsuite ( Now known as [Google Workspace](https://workspace.google.com/).
 
-# ## Update on GSuite
-
-Google has stopped the GSuite Legacy plan and [has made people pay for it](https://support.google.com/a/answer/60217?product_name=UnuFlow&visit_id=637967487199948467-450874955&rd=1&src=supportwidget0). However they are giving free option to people who are individuals, I opted for the free option for manojnayak.com
+> Google has stopped the GSuite Legacy plan and [has made people pay for it](https://support.google.com/a/answer/60217?product_name=UnuFlow&visit_id=637967487199948467-450874955&rd=1&src=supportwidget0). However they are giving free option to people who are individuals, I opted for the free option for manojnayak.com
 
 ## Google Workspace Woes
 
