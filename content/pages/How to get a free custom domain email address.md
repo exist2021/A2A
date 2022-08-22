@@ -13,7 +13,11 @@ lastMod: 2022-08-22
 Are you paying for a email address? Are you a small business or a freelancer? Do you keep buying new domains and need emails for them?  If your answer is YES, then you should read further.
 
 ## Emails are getting expensive and all freebies plans are over.
-Nowadays, emails are costing a lot more than it used to do. I remember in early days they would offer emails free when you purchased a domain. One of the earliest domains I have still has a free email from Godaddy, also i still have a free custom domain email id from Gsuite ( Now known as [Google Workspace](https://workspace.google.com/) for free. Google has stopped the GSuite Legacy plan and [has made people pay for it](https://support.google.com/a/answer/60217?product_name=UnuFlow&visit_id=637967487199948467-450874955&rd=1&src=supportwidget0).
+Nowadays, emails are costing a lot more than it used to do. I remember in early days they would offer emails free when you purchased a domain. One of the earliest domains I have still has a "lifetime free" email from Godaddy, also I still have a free custom domain email id from Gsuite ( Now known as [Google Workspace](https://workspace.google.com/).
+
+# ## Update on GSuite
+
+Google has stopped the GSuite Legacy plan and [has made people pay for it](https://support.google.com/a/answer/60217?product_name=UnuFlow&visit_id=637967487199948467-450874955&rd=1&src=supportwidget0). However they are giving free option to people who are individuals, I opted for the free option for manojnayak.com
 
 ## Google Workspace Woes
 
@@ -31,6 +35,10 @@ I had always heard about an alias, but never had dug deep into what it means, un
 
 ## Email Nirvana
 I feel so relieved that I am now just using one email interface to manage all my five email ids and that also when all of the emails are free. Saved 600 Rs per month in subscription and lot more in peace of mind which is priceless.
+
+## Resource
+
+[How to set up a Gmail custom domain for free | by Artur Piszek | Medium](https://medium.com/@artpi/how-to-set-up-a-gmail-custom-domain-for-free-50fd73bc451d)
 
 ## Subscribe to my monthly newsletter
 
