@@ -29,6 +29,6 @@ A guy I know, took his girl friend on a helicopter ride on her birthday, but the
 ## There is a thin line between being Firm and Ruthless
 Now you might argue that I never want to be Ruthless, but I am being firm when people try to cross a certain boundary in an area I care about. That is a valid argument but not in the scope of this page right now. So perhaps I will dwell on it later.
 
-![adam-nemeroff-_PDPRax9dm8-unsplash.jpg](/assets/adam-nemeroff-_pdprax9dm8-unsplash_1662450869985_0.jpg)
+![adam-nemeroff-_PDPRax9dm8-unsplash](https://mataroa.blog/images/ebc661a8.jpeg)
 
   + Photo by [Adam Nemeroff](https://unsplash.com/@adamnem?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/kindness?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
