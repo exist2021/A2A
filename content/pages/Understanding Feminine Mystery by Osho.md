@@ -17,7 +17,13 @@ Somehow Osho is giving me the answers to my current problems. So after not liste
 
   + God is Feminine. (Cause you are always seeking God)
 
-  + Women are stronger then men. Mortality rates of men between the age of 0-14 are much higher.
+  + Women are stronger then men.
+
+    + Mortality rates of men between the age of 0-14 are much higher.
+
+    + Women get less sick than men do
+
+    + Women outlive men on an average
 
   + Women are subdued by men, cause men know they are stronger than them.
 
