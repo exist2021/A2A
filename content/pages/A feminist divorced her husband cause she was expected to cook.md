@@ -27,7 +27,7 @@ But after a year or two, there was increasing pressure from the MIL to get invol
 
 This was the end of the marriage. She walked out and filed for a divorce.
 
-> Note- I didn’t think this lady is a feminist, nor does she herself placate herself as one. But when I posted a tweet about this, a friend remarked that this is female rights and what my acquaintance did was indeed good. Well, I never looked at it through the lens of female rights; I merely thought this was an internal issue in a family.  
+> Note- I didn’t think this lady is a feminist, nor does she herself placate herself as one. But when I posted a tweet about this, a friend remarked that this is female rights and what my acquaintance did was indeed good. Well, I never looked at it through the lens of female rights; I merely thought this was an internal issue in a family.
 
 ![DALL·E 2022-09-08 14-26-55 - Feminism cooking](https://mataroa.blog/images/0bcc30dd.png)
 
