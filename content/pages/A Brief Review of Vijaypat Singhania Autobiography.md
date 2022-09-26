@@ -11,7 +11,7 @@ lastMod: 2022-09-26
 ---
 I saw an Instagram reel with the 84-year-old VPS (Vijaypat Singhania) telling his story about how his son Gautam has made him homeless (Yes, he lives in a rented apartment).
 
-I was immediately curious why the successful, wealthy businessman faced such a fate from his youngest child. I picked up the kindle book for Rs 190 and used the Alexa app to listen to the book.
+I was immediately curious why the successful, wealthy businessman faced such a fate from his youngest child. I picked up the [kindle book for Rs 190](https://www.amazon.in/Incomplete-Life-Autobiography-Vijaypat-Singhania-ebook/dp/B09KNP5MHQ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) and used the Alexa app to listen to the book.
 
 The book was an easy listen, but I was disappointed that he has just at the end of the book talked about how he gifted away Rs 2000 crore worth of his 37% stake in Raymonds to his son.
 
