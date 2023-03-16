@@ -6,8 +6,8 @@ tags:
 title: A feminist divorced her husband cause she was expected to cook
 categories:
 - Marriage
-date: 2022-09-08
-lastMod: 2022-09-08
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 I don’t know why people tell me their stories. On one such accidental meeting with an old acquaintance in a coffee shop, we got talking.
 

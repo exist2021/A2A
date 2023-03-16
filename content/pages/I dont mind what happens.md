@@ -7,7 +7,7 @@ tags:
 title: I don’t mind what happens
 categories:
 - Philosophy
-lastMod: 2022-08-13
+lastMod: 2023-03-10
 ---
 I just finished a wonderful book called [4000 weeks](https://www.audible.in/pd/Four-Thousand-Weeks-Audiobook/) on our work and our short life. [Oliver Burkeman](https://twitter.com/oliverburkeman) says that human lives are tragically very short. He says assuming one life to be 80 years old, translates to about 4000 weeks. I am nearing 50, so I have only about 1500 weeks to live. If I die early like my father at 60, I have only 500 weeks.
 

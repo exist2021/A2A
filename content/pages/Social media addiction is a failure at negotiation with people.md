@@ -8,8 +8,8 @@ tags:
 title: Social media addiction is a failure at negotiation with people
 categories:
 - Social Media
-date: 2022-09-21
-lastMod: 2022-09-21
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 Do you find yourself spending a lot of time on social media instead of being with people in real life? Maybe your work is such that you have to be on social media to get business or generate leads. In that case are you able to keep it purely business and shut it down off business hours?
 

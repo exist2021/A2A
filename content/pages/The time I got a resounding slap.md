@@ -7,7 +7,7 @@ tags:
 title: The time I got a resounding slap
 categories:
 - Youth
-lastMod: 2022-08-13
+lastMod: 2023-03-10
 ---
 It was probably 1999 after my Dad's death the same year. I had inherited his Yellow Mercedes 240D. I had to go to Ratnagiri where he lived to collect some documents. I decided to drive down with my wife.
 

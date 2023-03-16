@@ -6,8 +6,8 @@ tags:
 title: A Brief Review of Vijaypat Singhania Autobiography
 categories:
 - books
-date: 2022-09-26
-lastMod: 2022-09-26
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 I saw an Instagram reel with the 84-year-old VPS (Vijaypat Singhania) telling his story about how his son Gautam has made him homeless (Yes, he lives in a rented apartment).
 

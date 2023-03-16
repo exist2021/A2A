@@ -8,7 +8,7 @@ tags:
 title: I made Tandoori Chicken Yesterday
 categories:
 - cooking
-lastMod: 2022-08-15
+lastMod: 2023-03-10
 ---
 So, I am on a mission to gain some muscle mass! I hate to look at my emaciated face in the mirror now. After [Eating Eggs to Gain Weight]({{< ref "Eating Eggs to Gain Weight" >}}) i felt I should add more protein to my diet. So grilled chicken is a safest bet. Also, for some reason, my stomach digest chicken very well. I mean I don't get bloated like I do with carbohydrates.
 

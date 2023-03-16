@@ -8,8 +8,8 @@ thumbnail: ![Screenshot 2022-09-21 at 4-01-06 PM](https://mataroa.blog/images/dc
 title: Shantanu Naidu’s venture to eliminate the guilt of children living abroad
 categories:
 - Old age
-date: 2022-09-21
-lastMod: 2022-09-21
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 We all were young and had parents or still have them around, but the law of nature is that the old must go to be replaced by the new. Sometimes death comes all of a sudden, and sometimes the old keep wishing they would die instead of going through the humiliation of being dependent or trouble to the young. But Yamraj Ji is an erratic guy; he comes and takes people away on his whims and fancy, notwithstanding the thousands of children praying for their parents to be dead.
 

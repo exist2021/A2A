@@ -2,8 +2,8 @@
 title: Osho
 tags:
 categories:
-date: 2022-08-16
-lastMod: 2022-08-16
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 Osho was an Indian Spiritual Guru. Read more about him here - [Rajneesh](https://en.wikipedia.org/wiki/Rajneesh) and [OSHO – Transform Yourself through the Science of Meditation](https://www.osho.com/)
 

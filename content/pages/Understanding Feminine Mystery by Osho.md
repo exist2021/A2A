@@ -6,8 +6,8 @@ tags:
 title: Understanding Feminine Mystery by Osho
 categories:
 - women
-date: 2022-09-06
-lastMod: 2022-09-06
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 Somehow Osho is giving me the answers to my current problems. So after not listening to Osho for like 25 years, I am back again to listening to [Osho]({{< ref "Osho" >}}) . He is now relevant to the answers I am seeking. So here are excellent two videos on the feminine mystery.
 

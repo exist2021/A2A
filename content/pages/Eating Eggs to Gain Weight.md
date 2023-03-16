@@ -7,7 +7,7 @@ tags:
 title: Eating Eggs to Gain Weight
 categories:
 - cooking
-lastMod: 2022-08-14
+lastMod: 2023-03-10
 ---
 This might seem like a third world problem, but I  have lost weight. I am losing weight for some reason. The reason is poor metabolism. It is a sedentry life. Being a knowledge worker means you spend most of the time sitting in front of the computer and instead of real meetings you have chats and zoom calls.
 

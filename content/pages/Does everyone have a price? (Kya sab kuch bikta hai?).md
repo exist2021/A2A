@@ -7,7 +7,7 @@ tags:
 - corruption
 categories:
 - Society
-lastMod: 2022-07-21
+lastMod: 2023-03-10
 ---
 ## How to Buy a person.
 > Everything is for Sale except the human spirit. But if you want to buy someone, here is the workflow.

@@ -1,14 +1,14 @@
 ---
 date: 2022-08-11
 category:
--  depression 
+- depression
 tags:
 - flu
 - cooking
 title: A depression which started with a Flu seems to have finally lifted
 categories:
--  depression 
-lastMod: 2022-08-13
+- depression
+lastMod: 2023-03-10
 ---
 It all started with an innocuous looking flu on a Saturday as I was about to leave to my Tabla class. Suddenly I felt that the nagging irritant in my throat was actuall a flu. In a couple of hours, I was feeling feverish and knew this was not a ordinary flu.
 

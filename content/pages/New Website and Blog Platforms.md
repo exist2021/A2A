@@ -10,7 +10,7 @@ title: New Website and Blog Platforms
 categories:
 - Personal Website
 - Personal Blog
-lastMod: 2022-08-11
+lastMod: 2023-03-10
 ---
 ## New Personal Blog Platform
 

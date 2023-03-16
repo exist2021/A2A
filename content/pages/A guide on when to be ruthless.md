@@ -7,8 +7,8 @@ tags:
 title: A guide on when to be ruthless
 categories:
 - Relationship
-date: 2022-09-06
-lastMod: 2022-09-06
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 Do you often wonder if you hurt someone with your thoughtless deed or words. Do you feel you were overtly ruthless to someone who was close to you? If you are guilty, you need to read this!
 
