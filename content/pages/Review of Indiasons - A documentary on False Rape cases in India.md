@@ -11,15 +11,14 @@ categories:
 date: 2023-05-28
 lastMod: 2023-05-28
 ---
-I finally watched this documentary by men’s rights activist (mra) [Deepika Bhardwaj](https://twitter.com/DeepikaBhardwaj). I thought I should quickly review the documentary before I forget about it. My short-term and long-term memory has never been good.
-> Note -  Deepika has earlier also produced a documentary called Matryr’s of Marriage
+I finally watched this documentary by men’s rights activist[Deepika Bhardwaj](https://twitter.com/DeepikaBhardwaj). I thought I should quickly review the documentary before I forget about it. My short-term and long-term memory has never been good.
+> Note -  Deepika has earlier also produced a documentary called [Matryr’s of Marriage](https://youtu.be/vKRAkw5RUdw)
 
 ## About the Documentary
 
-The documentary is hosted by Karan Oberoi, who was part of a very popular boy’s band in the 90s. He was accused by his scorned lover (the case is still in the courts as per the end credits) in 2019 of rape. He was incarcerated for 30 days and was left out on bail.
+The documentary is hosted by [Karan Oberoi](https://en.wikipedia.org/wiki/Karan_Oberoi), who was part of a popular boy’s band in the 90s. He was accused by his scorned lover (the case is still in the courts as per the end credits) in 2019 of rape. He was incarcerated for 30 days and was left out on bail.
 
 The documentary consists of narratives of various men falsely accused of Rape. It includes comments by experts, lawyers, and a lady police officer on the lacunae of the laws on rape. One statement by the lady officer has resonated with me greatly. Let me paraphrase it. **She says that all fights for gender equality have made the law more unequal**. I resonate with this statement; it is called the reverse effect. Instead of finding the root cause of rape and sexual violence again women, we have, via law, started abusing men.
-
 
 ### Eight-five percent of false cases
 
