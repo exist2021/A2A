@@ -16,4 +16,4 @@ If it is purely male energy that takes a woman, I call it coercion. Remember, yo
 
 For a man, it is pretty simple. He has a hard-on, which is visible. This man with a hard-on cannot lie that the woman does not turn him on, but the woman can deceive her lover. 
 
-So like a woman, you cannot force inspiration; she decides to bestow her grace on you. When she comes, you both flow and lose the sense of time. 
+So like a woman, you cannot force inspiration; she decides to bestow her grace on you. When she comes, you both flow and lose the sense of time.
