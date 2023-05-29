@@ -36,7 +36,7 @@ Crime Syndicates are honey-trapping rich men and then blackmailing them. One guy
 
 Yes, after the Nirbhaya case, the laws are highly skewed in favour of women. If she says she has been raped, it is enough to file an FIR. The man can be picked up on the same day the FIR is registered and put under incarceration. 
 
-One of the guys who spent thirty days in prison says that the cell conditions in the jail barracks were so unhygienic that he wanted to kill himself. He says that in his 100 sq-ft jail cell, there was a half-open toilet which sometimes had no water.
+One of the guys who spent thirty days in prison says that the cell conditions in the jail barracks were so unhygienic that he wanted to kill himself. He says that in his 100 sq-ft jail cell, there was a half-open toilet which sometimes had no water, there were about 300 inmates in a single barrack with people no place to sleep and the other guys feet was sometimes right in front of your face.
 
 The police and even the judges know that the laws are so skewed in favour of the women that they dare not do or think anything contrarian. Men sometimes spend years in jail, and no compensation is given when the court sets them free when proven innocent. (If they want compensation, they must fight the state when they are already worn out and tired.)
 
