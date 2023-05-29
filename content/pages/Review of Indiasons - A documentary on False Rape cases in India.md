@@ -22,7 +22,7 @@ The documentary consists of narratives of various men falsely accused of Rape. I
 
 ### Eighty-five percent of false cases
 
-The documentary cites [National Crime Records Bureau](twitter https://twitter.com/DeepikaBhardwaj/status/1662809616219267072?s=20) that 85% of the rape cases accused turn out to be innocent. This is to the extent the law is abused.
+The documentary cites [National Crime Records Bureau](https://twitter.com/DeepikaBhardwaj/status/1662809616219267072?s=20) that 85% of the rape cases accused turn out to be innocent. This is to the extent the law is abused.
 
 #### Counter Argument from an LLM model 
 
