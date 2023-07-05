@@ -1,5 +1,5 @@
 ---
-title: The Fascinating Obsession of Sheikh Saoud bin al-Thani with
+title: The Fascinating Obsession of Sheikh Saoud bin al-Thani with Maharaja Yeshwant Rao Holkar II
 tags:
 categories:
 date: 2023-07-05
