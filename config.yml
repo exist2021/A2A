@@ -16,7 +16,7 @@ params:
         - name: "twitter"
           url: "https://twitter.com/manojnayak"
         - name: "linkedin" 
-          url: "https://https://linkedin.com/manojrnayak"
+          url: "www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manojrnayak"
         - name: "rss"
           url: "https://manojnayak.com/index.xml"
     ShowReadingTime: true
